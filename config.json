@@ -1,0 +1,12 @@
+{
+ "545487549649518618": {
+ "prefix": "/",
+ "delete": "true",
+ "deleteTime": 10000,
+ "volume": 100,
+ "maxVolume": 200,
+ "djonly": false,
+ "djroles": [],
+ "levelup": false
+      }
+ }
