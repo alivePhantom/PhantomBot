@@ -5,8 +5,7 @@ const music = require('discord.js-music-v11')
 const bot = new Commando.Client({
     commandPrefix: "/"
 });
-const TOKEN = 'NTQ0OTM4NTU2OTQyOTc0OTc3.D0SZyg.FBht2eZNuVUL9saB2uCbKOoZ5SM'
-
+const TOKEN = 'PUT YOUR TOKEN HERE`
 const client = new discord.Client();
 
 bot.registry.registerGroup('simple', 'Simple');
